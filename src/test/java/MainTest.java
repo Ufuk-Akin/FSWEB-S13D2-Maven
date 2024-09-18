@@ -24,7 +24,7 @@ public class MainTest {
         assertEquals(Main.isPerfectNumber(5), false);
         assertEquals(Main.isPerfectNumber(-1), false);
 
-    }  
+    }
 
     @DisplayName("Sayıları Kelimelere Cevirme Testi")
     @Test
